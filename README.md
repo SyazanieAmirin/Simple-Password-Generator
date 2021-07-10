@@ -1,5 +1,5 @@
 # A Simple Password Generator
 
-The first project I did by myself!
+First python project!
 
 Thanks to stackoverflow and random websites for refrences.
