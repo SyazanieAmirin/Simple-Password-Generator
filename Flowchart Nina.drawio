@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T12:59:34.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="9phWdGWWg_56vDuLK4ia" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T13:20:15.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="h5C_zr5mn58hhMtje9_H" version="20.7.4" type="github">
   <diagram id="OsOMGD-ik3Zf7SZOt8np" name="Page-1">
-    <mxGraphModel dx="1697" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2970" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,8 +260,11 @@
         <mxCell id="HR_ULsvQH8FzLZKK90XC-33" value="case 1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1225" y="480" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HR_ULsvQH8FzLZKK90XC-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-36" value="num3 = 1, name = “Ampang” break" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1400" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-37" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
