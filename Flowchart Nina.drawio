@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T10:40:54.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="hSv0rqe7UpzCYhgAMuuW" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T12:36:05.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="978PPC7SYLyUZMKmEu46" version="20.7.4" type="github">
   <diagram id="OsOMGD-ik3Zf7SZOt8np" name="Page-1">
-    <mxGraphModel dx="594" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="699" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,16 +152,35 @@
         <mxCell id="JS9AjzZ9kIchDXuZYbvt-40" value="return multiplyValue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1000" y="460" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HR_ULsvQH8FzLZKK90XC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HR_ULsvQH8FzLZKK90XC-1">
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HR_ULsvQH8FzLZKK90XC-1" target="HR_ULsvQH8FzLZKK90XC-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1290" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HR_ULsvQH8FzLZKK90XC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-1" value="main()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HR_ULsvQH8FzLZKK90XC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HR_ULsvQH8FzLZKK90XC-3" target="HR_ULsvQH8FzLZKK90XC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-3" value="double price = 1.20, multiply, ticket = 0, num3 = 0&lt;br&gt;String name = “”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="HR_ULsvQH8FzLZKK90XC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="HR_ULsvQH8FzLZKK90XC-6" target="HR_ULsvQH8FzLZKK90XC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-6" value="Display main&lt;br&gt;menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HR_ULsvQH8FzLZKK90XC-9" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="360" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
